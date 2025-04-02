@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://metaboflex.vercel.app
+Sitemap: https://metaboflex.vercel.app/sitemap.xml
